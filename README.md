@@ -1,5 +1,7 @@
 ### `npm start`
+untuk menjalankan web di local
 
+http://localhost:3000
 
 ### `npm test`
 lalu klik 'a'
